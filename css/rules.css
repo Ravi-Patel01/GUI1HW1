@@ -11,6 +11,10 @@
 .description_styling {
     font-size: 18px;
     color:brown
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .center {
