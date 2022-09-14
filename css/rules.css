@@ -1,13 +1,15 @@
 .title_styling {
     font-size: 150px;
     color:darkkhaki;
-    border: 10px solid #555
 }
 
 .subtitle_styling {
     font-size: 50px;
     color:coral;
-    border: 10px solid #555
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .description_styling {
@@ -25,4 +27,8 @@
     margin-right: auto;
     width: 50%;
     border: 5px solid #555
+}
+
+.table_styling {
+    border:1px solid black;
 }
